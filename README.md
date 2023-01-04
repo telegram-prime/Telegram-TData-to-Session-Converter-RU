@@ -2,7 +2,7 @@
 ## Конвертирует сессии Телеграм аккаунтов в аккаунты формата TData в формат .sessionа, а так же в .session + .json.
  
  * Description is also available in English. Please See [TD2S Coverter RUS](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter/)
- * 描述也可以在Chineese中提供。 参见 [TD2S Coverter CN](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN) [in progress]
+ * 描述也可以在Chineese中提供。 参见 [TD2S Coverter CN](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN)
 
 
 ## Описание функционала:
