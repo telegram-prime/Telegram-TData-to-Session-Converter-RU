@@ -35,21 +35,21 @@
 ## Видео:
 - [YouTube](https://youtu.be/1OCWyrkrbwU)
 
-
 ##  Контакты:
-- Email: manager[@]telegramprime.com
-- Telegram: @TGG_Sales
+- Email:    manager[@]telegramprime.net
+- Telegram: [Send message](https://telegramprime.com/telegram-contact)
+- ICQ:      [Send message](https://telegramprime.com/icq-contact)
+- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
+- Discord:  [Send message](https://telegramprime.com/discord-contact)
 
-* либо через форму связи на наших сайтах Telegram-Prime:
+* либо через форму связи на наших сайтах:
 - Wеb: https://telegramprime.net/ - EN Version
 - Wеb: https://telegramprime.com/ - RU Version
 
 
-## Мотивация проекта:
-* [Купите нам кофе :)](https://commerce.coinbase.com/checkout/a0495346-539e-48df-9b43-880a3b93dc8b)
+## Донаты:
+* [Купить нам кофе :)](https://nowpayments.io/donation/telegramprime)
 * Благодарим Вас!
-
-
 
 
 
