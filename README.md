@@ -7,6 +7,8 @@
 
 ## Описание функционала:
  - Конвертирует сессии Телеграм аккаунтов в аккаунты формата TData в формат.session (или .session + .json).
+ - Многопоточная работа.
+ - Возможность создания нового сеанса для аккаунта или сохранения текущего сеанса.
  - Гибкая настройка эмуляции устройств используемых для подключения к сессии;
  - Настройка использования уникальных HTTP или SOCKS5 для подключения к сессии (поддержка большого количества прокси);
  - Пропускает плохие сессии если не удалось к ним подключиться;
@@ -27,13 +29,16 @@
 - Неограниченное количество операций на неограниченный срок.
 
 
+## Видео:
+- [YouTube](https://youtu.be/hpfbXPWjLqs)
+
+
 ## Скриншоты:
 
-<img width="393" alt="TD2S_001" src="https://user-images.githubusercontent.com/94137664/209485859-b85b762e-b36a-46bf-bcbf-2d4cfa420270.png"> <img width="392" alt="TD2S_002" src="https://user-images.githubusercontent.com/94137664/209485861-a6fa3f0d-4fab-4a0d-ad27-ecf7a4c35c6f.png">
-<img width="393" alt="TD2S_003" src="https://user-images.githubusercontent.com/94137664/209485858-0e3b9131-8ba8-4c99-8984-da5ca6a0c001.png"> <img width="392" alt="TD2S_004" src="https://user-images.githubusercontent.com/94137664/209485856-91316d3f-4f6c-4c71-86e1-90de1b930b87.png">
+![TD2S_v 1 6_RU_001](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN/assets/94137664/f1d461d1-91ae-4721-92f2-d4946f2bd448) ![TD2S_v 1 6_RU_002](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN/assets/94137664/5fa97805-f496-4066-beff-71784bab9f62)
+![TD2S_v 1 6_RU_003](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN/assets/94137664/da7f01d4-1580-495b-b575-65817325109b) ![TD2S_v 1 6_RU_004](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN/assets/94137664/39d27ffe-6664-4add-a3a4-16611d4bfe93)
 
-## Видео:
-- [YouTube](https://youtu.be/1OCWyrkrbwU)
+
 
 ##  Контакты:
 - Email:    manager[@]telegramprime.net
@@ -41,6 +46,7 @@
 - ICQ:      [Send message](https://telegramprime.com/icq-contact)
 - TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
 - Discord:  [Send message](https://telegramprime.com/discord-contact)
+- Element:  [Send message](https://telegramprime.com/element-contact)
 
 * либо через форму связи на наших сайтах:
 - Wеb: https://telegramprime.net/ - EN Version
