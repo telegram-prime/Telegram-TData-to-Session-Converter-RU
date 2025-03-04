@@ -35,9 +35,8 @@
 
 
 ## Скриншоты:
+<img width="512" alt="TD2S_RU_001" src="https://github.com/user-attachments/assets/ce82edb4-c7b4-45a2-83f5-bb4048437d2e" />
 
-![TD2S_v 1 6_RU_001](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN/assets/94137664/f1d461d1-91ae-4721-92f2-d4946f2bd448) ![TD2S_v 1 6_RU_002](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN/assets/94137664/5fa97805-f496-4066-beff-71784bab9f62)
-![TD2S_v 1 6_RU_003](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN/assets/94137664/da7f01d4-1580-495b-b575-65817325109b) ![TD2S_v 1 6_RU_004](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN/assets/94137664/39d27ffe-6664-4add-a3a4-16611d4bfe93)
 
 
 
