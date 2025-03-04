@@ -1,5 +1,5 @@
-# TD2S Converter - Конвертер Телеграм аккаунтов формата TData в формат .session.
-## Конвертирует сессии Телеграм аккаунтов в аккаунты формата TData в формат .sessionа, а так же в .session + .json.
+# TD2S Converter - Конвертер Телеграм аккаунтов формата TDATA в формат SESSION.
+## Конвертирует сессии Телеграм аккаунтов в аккаунты формата TData в формат SESSION, а так же в SESSION+JSON.
  
  * Description is also available in English. Please See [TD2S Coverter RUS](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter/)
  * 描述也可以在Chineese中提供。 参见 [TD2S Coverter CN](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN)
@@ -8,12 +8,13 @@
 ## Описание функционала:
  - Конвертирует сессии Телеграм аккаунтов в аккаунты формата TData в формат.session (или .session + .json).
  - Многопоточная работа.
- - Возможность создания нового сеанса для аккаунта или сохранения текущего сеанса.
- - Гибкая настройка эмуляции устройств используемых для подключения к сессии;
- - Настройка использования уникальных HTTP или SOCKS5 для подключения к сессии (поддержка большого количества прокси);
- - Пропускает плохие сессии если не удалось к ним подключиться;
- - Сортирует в отдельные папки хорошие и плохие сессии;
- - Возможность сохранять журнал работы;
+ - Возможность создания новой сессии для аккаунта или сохранения текущей сессии.
+ - Поддерживает возможность отключения других сессий на аккаунте при конвертации или переавторизации.
+ - Гибкая настройка эмуляции устройств используемых для подключения к сессии.
+ - Настройка использования уникальных HTTP или SOCKS5 для подключения к сессии (поддержка большого количества прокси).
+ - Пропускает плохие сессии если не удалось к ним подключиться.
+ - Сортировка валидных и невалидных аккаунтов по разным папкам.
+ - Возможность сохранять журнал работы.
  - Возможность создавать бекапы перед конвертацией.
 
 
@@ -43,12 +44,11 @@
 ##  Контакты:
 - Email:    manager[@]telegramprime.net
 - Telegram: [Send message](https://telegramprime.com/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.com/icq-contact)
 - TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
 - Discord:  [Send message](https://telegramprime.com/discord-contact)
 - Element:  [Send message](https://telegramprime.com/element-contact)
 
-* либо через форму связи на наших сайтах:
+* либо через форму связи сайте:
 - Wеb: https://telegramprime.net/ - EN Version
 - Wеb: https://telegramprime.com/ - RU Version
 
